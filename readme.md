@@ -1,12 +1,12 @@
-# _Project Title_
+# _Simon_
 
-#### _Description, Date_
+#### _A recreation of the original game Simon, to practice Webpack, 6.22.20_
 
-#### By _**Taylor Phillips**_
+#### By _**Taylor Phillips and Spencer Moody**_
 
 ## Description
 
-_Detailed description of the application_
+_This was a recreation of the game Simon to practice using webpacks and dependencies.  We are also practicing importing and exporting functions._
 
 ## Setup/Installation Requirements
 
@@ -25,10 +25,10 @@ _Detailed description of the application_
 
 | Behavior  | Input | Output  |
 | :-------: | :---: | :-----: |
-| 1.        |       |         |
-| 2.        |       |         |
-| 3.        |       |         |
-| 4.        |       |         |
+| 1. User should press a button to initiate the game       | Button (press)      |  'RED'       |
+| 2. User pushes matching color buttton       |  'RED'     |  "RED'       |
+| 3. Next color in sequence is shown for the user to follow and User must reproduce that order      |   "RED, BLUE"    |  "RED, BLUE"       |
+| 4. If user presses wrong color in sequence then the game ends.       | "RED, BLUE, GREEN"      |  "RED, BLUE, YELLOW"  *game over.       |
 
 ## Known Bugs
 
@@ -51,4 +51,4 @@ _VSCode_
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2020 **_Taylor Phillips_**
+Copyright (c) 2020 **_Taylor Phillips and Spencery Moody_**
