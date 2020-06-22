@@ -51,4 +51,4 @@ _VSCode_
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2020 **_Taylor Phillips and Spencery Moody_**
+Copyright (c) 2020 **_Taylor Phillips and Spencer Moody_**
